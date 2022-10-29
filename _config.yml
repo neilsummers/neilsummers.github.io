@@ -126,6 +126,7 @@ jekyll-archives:
 
 breadcrumbs              : true
 words_per_minute         : 200
+repository               : neilsummers/neilsummers.github.io
 comments:
   provider               : utterances
   utterances:
