@@ -1,6 +1,6 @@
 ---
-title: "Amateur Golf Events in UK and Ireland"
-excerpt: "Planning Golf Trips to the UK and Ireland around Amateur Tournaments"
+title: "Amateur Golf Events in UK, Ireland, and Australia"
+excerpt: "Planning Golf Trips to the UK, Ireland and Australia around Amateur Tournaments"
 layout: single
 classes: wide
 categories:
@@ -77,17 +77,43 @@ Some other events that don't meet WAGR criteria (mainly because they are less th
 ## Ireland
 Can get to play some great Irish Links courses through tournaments. Lahinch and Royal Portrush are definitely worth a trip over.
 
-| Date                                                                      | Tournament                                       | Course               | WAGR Points 2023 |
-|---------------------------------------------------------------------------|--------------------------------------------------|----------------------|----------------|
-| 7 Apr '23 - 11 Apr '23                                                    | West of Ireland Men's Amateur Open Championship  | County Sligo         | 179            |
-| 29 Apr '23 - 1 May '23                                                    | Munster Men's Amateur Open Championship          | Cork                 | 	60            |
-| 11 May '23 - 14 May '23                                                   | Irish Men’s Amateur Open Championship            | The Island           | 399            |
-| 29 May '23 - 30 May '23                                                   | Ulster Men's Open Stroke Play Championship       | Clandeboye-Dufferin  | 102            |
-| 3 Jun '23 - 5 Jun '23                                                     | East of Ireland Men's Amateur Open Championship  | County Louth         | 156            | 
-| 10 Jun '23 - 11 Jun '23                                                   | Connacht Men's Stroke Play Championship          | Portumna             | 54             | 
-| 16 Jun '23 - 17 Jun '23                                                   | Leinster Mid-Amateur Open Championship           | Courstown            | 23             |
-| 26 Jul '23 - 30 Jul '23                                                   | South of Ireland Men's Amateur Open Championship | Lahinch (Old Course) | 133            | 
-| 6 Aug '23 - 7 Aug '23                                                     | Mullingar Scratch Trophy                         | Mullingar            | 74             |
-| 10 Aug '23 - 11 Aug '23                                                   | Munster Mid-Amateur Open Championship            | Kanturk | 25             |
-| 20 Sep '23 - 22 Sep '23                                                   | North of Ireland Men's Amateur Open Championship | Royal Portrush                                   | 181            |
-| 6 Oct '23 - 8 Oct '23	| Irish Men's Mid-Amateur Open Championship        | Portsalon                                        | 24             |
+| Date                    | Tournament                                       | Course               | WAGR Points 2023 |
+|-------------------------|--------------------------------------------------|----------------------|------------------|
+| 7 Apr '23 - 11 Apr '23  | West of Ireland Men's Amateur Open Championship  | County Sligo         | 179              |
+| 29 Apr '23 - 1 May '23  | Munster Men's Amateur Open Championship          | Cork                 | 	60              |
+| 11 May '23 - 14 May '23 | Irish Men’s Amateur Open Championship            | The Island           | 399              |
+| 29 May '23 - 30 May '23 | Ulster Men's Open Stroke Play Championship       | Clandeboye-Dufferin  | 102              |
+| 3 Jun '23 - 5 Jun '23   | East of Ireland Men's Amateur Open Championship  | County Louth         | 156              | 
+| 10 Jun '23 - 11 Jun '23 | Connacht Men's Stroke Play Championship          | Portumna             | 54               | 
+| 16 Jun '23 - 17 Jun '23 | Leinster Mid-Amateur Open Championship           | Courstown            | 23               |
+| 26 Jul '23 - 30 Jul '23 | South of Ireland Men's Amateur Open Championship | Lahinch (Old Course) | 133              | 
+| 6 Aug '23 - 7 Aug '23   | Mullingar Scratch Trophy                         | Mullingar            | 74               |
+| 10 Aug '23 - 11 Aug '23 | Munster Mid-Amateur Open Championship            | Kanturk              | 25               |
+| 20 Sep '23 - 22 Sep '23 | North of Ireland Men's Amateur Open Championship | Royal Portrush       | 181              |
+| 6 Oct '23 - 8 Oct '23	  | Irish Men's Mid-Amateur Open Championship        | Portsalon            | 24               |
+
+## Australia
+Australia has a few big tournaments played at world top 100 courses that are worth a trip down under. Similar to the UK, entries are determined by handicap ballot, with no qualifying so simple to enter from abroad. Good for a wrap around season as their summer is our winter. Tournaments usually include a free practice round in the entry. Unlike the UK, they usually have only 1 round a day.
+
+Events are well organized by Golf Australia with a full [calendar](https://www.golf.org.au/events#/customer/1090/schedule) available.
+
+While NSW events are listed on this calendar, sometimes need to go to the NSW [calendar](https://www.golfnsw.org.au/event-calendar/) for NSW events.
+
+Tournaments on my radar.
+
+| Tournament                      | Course                        | Date                    | WAGR Points 2023 | Comment                                                                                              |
+|---------------------------------|-------------------------------|-------------------------|------------------|------------------------------------------------------------------------------------------------------|
+| Australian Amateur              | Various                       | 10 Jan '23 - 13 Jan '23 | 580              | 4 rounds with a 36 hole cut. High ranking event but ballot was around 1 for NSWGC with no qualifying |
+| The Avondale Amateur            | Avondale GC                   | 17 Jan '23 - 20 Jan '23 | 415              | 4 rounds with 36 cut, ballot around +2                                                               |
+| NSW Amateur                     | Various                       | 23 Jan '23 - 27 Jan '23 | 267              | Strokeplay qualifying with top 32 matchplay                                                          |
+| South Australia Amateur Classic | Royal Adelaide                | 21 Mar '23 - 24 Mar '23 | 302              | 4 rounds with 36 cut                                                                                 |
+| NSW Mid-Amateur                 | various                       | 21 May '23 - 23 May '23 | 23               | 3 rounds                                                                                             |
+| Australian Mid-Amateur          | various                       | Nov                     | 24               | 3 rounds                                                                                             |
+| Port Phillip Amateur            | Kingston Heath & Commonwealth | Dec                     | 151              | 4 rounds with 36 hole cut, 2 rounds after cut on same day                                            |
+| Victorian Amateur               | Commonwealth                  | Dec                     |                  | top 16 from Port Phillip Am qualify for match play                                                   |
+
+Have seen Port Phillip and Victorian Amateur played at other Melbourne Sandbelt courses including Royal Melbourne. The 2023 Port Phillip and Victorian Amateurs postponed to April 2024.
+
+Australian Am, Avondale Am, and NSW Am make a nice long trip with back to back tournaments where several top England players come for winter golf.
+
+2024 Australian Amateur at Yarra Yarra GC.
