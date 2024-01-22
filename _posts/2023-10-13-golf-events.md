@@ -10,6 +10,9 @@ tags:
   - Tournaments
 ---
 
+This was made for 2023. I will not update for dates in 2024, but have made a [Google Calendar](https://calendar.google.com/calendar/u/0?cid=YmM3YmZhYzRmNDljZTdiZWFmZGUwY2E1NmZjMzVkNGRhMzliZmJiYWIxOGU3YzY3ZjBhYWE5N2VhNGJjOTQxN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for 2024 and beyond, in which I post the events and the event details in the descriptions.
+{: .notice--info}
+
 Doesn't seem to be a good website aggregating all the tournaments in the UK, so I'm making a few links for myself.
 * <https://amateurgolf.com/> is not comprehensive for UK tournaments, it has some but not enough to be useful.
 * <https://golfbible.co.uk/> is useful as a comprehensive list of tournament results, which actually has all the UK tournaments, but it is not searchable by country or region.
